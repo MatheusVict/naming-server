@@ -1,0 +1,8 @@
+server:
+  port: 8761
+spring:
+  application: naming-server
+eureka:
+  client:
+    register-with-eureka: false # não se auto registre
+    fetch-registry: false
