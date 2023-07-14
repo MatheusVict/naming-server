@@ -1,0 +1,1 @@
+[![Continuos Integration with github](https://github.com/MatheusVict/naming-server/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MatheusVict/naming-server/actions/workflows/docker-image.yml)
