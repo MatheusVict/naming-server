@@ -30,3 +30,5 @@ docker compose up -d
 # Routes:
 
 #### you can open on [localhost](htpp://localhost:8761) and you will see the Eureka Netflix server
+#### To open zipkin you use [localhost](http://localhost:9411)
+
